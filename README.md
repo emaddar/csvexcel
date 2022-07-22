@@ -57,5 +57,16 @@ A streamlit application to convert (.xlsx to .csv) or (csv to .xlsx)
 * time
 * openpyxl
 
+<h3 align="left">
+    streamlit siting
+    <br>
+</h3>
 
-[MD reference](https://raw.githubusercontent.com/jrieke/best-of-streamlit/main/README.md)
+1. Download [csvexcel.py](csvexcel.py), [requirements.txt](requirements.txt), [Procfile](Procfile), [setup.sh](setup.sh) into the **same directory**
+2. If you want to change the python file's name, make sur to change it also in [Procfile](Procfile).
+3. Use Python terminal (always in the same directory as Python file) and write
+```python
+streamlit run csvexcel.py
+```
+
+---
