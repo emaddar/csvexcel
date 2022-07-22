@@ -19,9 +19,28 @@ A streamlit application to convert (.xlsx to .csv) or (csv to .xlsx)
 
 ---
 
-<h4 align="left">
+<h3 align="left">
     Convert Excel to CSV
     <br>
-</h4>
+</h3>
+
+1. Upload your `excel` file, if you have multiple worksheets, this application will choose the first one by defult, or you can choose the sheet you want to convert to `csv`
+2. Select your columns to convert, you can select all columns.
+3. Click on the button [**convert to csv file**]  🚀
+4. You can see a preview of generated `csv`
+5. Click on the buttom [**Download data as CSV**] ⬇️
+
+
+<h3 align="left">
+    Convert CSV to Excel
+    <br>
+</h3>
+
+1. Upload your `csv` file
+2. Select your columns to convert, you can select all columns.
+3. Click on the button [**convert to xlsx file**]  🚀
+4. You can see a preview of generated `xlsx`
+5. Click on the buttom [**Download data as xlsx**] ⬇️
+
 
 [MD reference](https://raw.githubusercontent.com/jrieke/best-of-streamlit/main/README.md)
