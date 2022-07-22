@@ -1,0 +1,6 @@
+pandas==1.4.2
+streamlit==1.10.0
+tabulate==0.8.10
+XlsxWriter==3.0.3
+tabulate==0.8.10
+openpyxl==3.0.10
