@@ -43,4 +43,19 @@ A streamlit application to convert (.xlsx to .csv) or (csv to .xlsx)
 5. Click on the buttom [**Download data as xlsx**] ⬇️
 
 
+<h3 align="left">
+    Packages used
+    <br>
+</h3>
+
+* pandas
+* streamlit
+* io
+* datetime
+* tabulate
+* ssl
+* time
+* openpyxl
+
+
 [MD reference](https://raw.githubusercontent.com/jrieke/best-of-streamlit/main/README.md)
