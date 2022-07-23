@@ -4,7 +4,7 @@
 
 
 <p align = "center">
-Hi, A streamlit application to convert (.xlsx to .csv) or (csv to .xlsx)
+A streamlit application to convert (.xlsx to .csv) or (csv to .xlsx)
 <p>
 
 ---
